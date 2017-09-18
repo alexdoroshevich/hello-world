@@ -1,12 +1,21 @@
+<<<<<<< HEAD
 
 Test
 =======
+=======
+>>>>>>> develop
 Test
 
 1. New commit
 ---------------
 2. Second commit in file
+<<<<<<< HEAD
 ---------------
 3. Some commit
 4. Hello All
 
+=======
+
+4. Hello All
+------------
+>>>>>>> develop
