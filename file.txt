@@ -9,5 +9,4 @@ Test
 ---------------
 3. Some commit
 4. Hello All
-------------
 
