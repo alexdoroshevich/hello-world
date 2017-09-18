@@ -4,3 +4,4 @@ Test
 ---------------
 2. Second commit in file
 ---------------
+3. Some commit
