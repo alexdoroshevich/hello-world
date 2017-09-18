@@ -2,3 +2,5 @@ Test
 
 1. New commit
 ---------------
+2. Second commit in file
+---------------
